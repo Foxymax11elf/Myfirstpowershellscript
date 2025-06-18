@@ -13,7 +13,7 @@ else {
 }
 
 
-if ($game -eq "カース"){
+if ($game -eq "チーズ"){
     Write-Host "うわぁぁぁ ʘᗩʘ"
 
 }
